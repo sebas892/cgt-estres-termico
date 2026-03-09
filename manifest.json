@@ -2,18 +2,18 @@
   "name": "Protocolo Calor - CGT Jardinería",
   "short_name": "Protocolo Calor",
   "description": "Herramienta de prevención de estrés térmico para jardinería en Madrid.",
-  "start_url": "index.html",
+  "start_url": "https://cgt6.info/herramienta-estres-termico/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#E30613",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "https://cgt6.info/wp-content/uploads/2025/04/Copia_de_seguridad_de_Copia_de_seguridad_de_Sin-titulo-1VBNBVXLKJHGF.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "logo.png",
+      "src": "https://cgt6.info/wp-content/uploads/2025/04/Copia_de_seguridad_de_Copia_de_seguridad_de_Sin-titulo-1VBNBVXLKJHGF.png",
       "sizes": "512x512",
       "type": "image/png"
     }
